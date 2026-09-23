@@ -2,6 +2,8 @@
 
 A full-stack application that allows you to chat with your Gmail data using AI. The system fetches emails, processes them with embeddings, stores them in Pinecone vector database, and provides intelligent answers to queries about your email content.
 
+> **No public demo.** This app requires each user's own Gmail OAuth credentials to run, so there's no hosted instance to click through. Run it locally against your own Gmail account by following the setup steps below.
+
 ## Features
 
 - 🔐 Secure Gmail OAuth authentication
@@ -200,7 +202,7 @@ npm test
 
 ## License
 
-[Add your license information here]
+MIT — see [LICENSE](LICENSE).
 
 ## Acknowledgments
 
